@@ -31,8 +31,6 @@ procedure ErrorMessage(const AMessage: string; const AIcon: integer = MB_ICONWAR
 
 implementation
 
-{$R Stub.res}
-
 uses
   Messages, XPMan, SysUtils, CommCtrl;
 

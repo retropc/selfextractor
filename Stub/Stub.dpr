@@ -1,5 +1,7 @@
 program Stub;
      
+{$R 'Stub.res' 'Stub.rc'}
+
 uses
   Classes,
   Windows,

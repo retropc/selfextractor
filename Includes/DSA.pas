@@ -64,7 +64,7 @@ var
 begin
   ifFileStream := TFileStream.Create(AFilename, fmOpenRead);
   try
-    VerifyHashFile(AHashFilename, AP, AQ, AG, AY, ifFileStream);
+    Result := VerifyHashFile(AHashFilename, AP, AQ, AG, AY, ifFileStream);
   finally
     ifFileStream.Free;
   end;

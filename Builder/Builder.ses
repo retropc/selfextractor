@@ -5,13 +5,13 @@ memFiles 2=LZMA.dll
 
 [TLabeledEdit]
 edtRootDirectory=.\
-edtCaption=Builder
-edtExtractHere=T:\
+edtCaption=
+edtExtractHere=
 edtExecutable=Builder.exe
 edtParams=
 edtUNC=
-edtPassword=buildingpower
-edtHashProtection=\\tyr\students\c\cp45617\publish\authorised.shk
+edtPassword=
+edtHashProtection=
 
 [TTrackBar]
 tbCompressionLevel=4

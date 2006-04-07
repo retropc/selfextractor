@@ -13,14 +13,13 @@ BEGIN
     BEGIN
         BLOCK "080904E4"
         BEGIN
-            VALUE "CompanyName", "Unknown\0"
+            VALUE "CompanyName", "Warp13\0"
             VALUE "FileDescription","BZ Self Extractor\0"
             VALUE "FileVersion", "1.0.0.9\0"
-            VALUE "LegalCopyright","Copyright \251 Unknown 2004\0"
+            VALUE "LegalCopyright","Copyright \251 Chris Porter/Warp13 2004-2006\0"
             VALUE "OriginalFilename", "SelfExtractor.exe\0"
             VALUE "ProductName", "BZ Self Extractor\0"
             VALUE "ProductVersion", "1.0.0.9\0"
-            VALUE "Comments", "Unknown is NOT responsible for the contents of this self extractor.\0"
         END
     END
     BLOCK "VarFileInfo"
